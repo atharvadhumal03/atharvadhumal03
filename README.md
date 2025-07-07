@@ -12,9 +12,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=atharvadhumal03&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvadhumal03&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=atharvadhumal03&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=atharvadhumal03&icon=0&color=0)](https://visitcount.itsvg.in)
 
