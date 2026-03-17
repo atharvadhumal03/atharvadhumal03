@@ -2,7 +2,7 @@
 <kdb>🎓  MS in Computer Science with Concentration in AI @Northeastern University, Silicon Valley.<br>🧠 I am passionate about Deep Learning, Computer Vision, NLP and other domains of AI.<br>💻 Ex-Data Science Intern @BookMyShow; Mumbai, India.<br>💡 Former TA for DS5110 (Essentials of Data Science) & Current Student Ambassador.<br>📌 I’m always learning, building and sharing! Please check out some of my work below!</kbd>
 
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/atharvadphumal/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dhumal.a@northeastern.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharvadphumal/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhumal.a@northeastern.edu)
 
 ### 💻 Tech Stack:
 #### Programming Languages and Software Dev:
