@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2E86AB&text=Atharva%20Dhumal&textBg=false&reversal=true&desc=MSCS%20@%20Northeastern%20Univeristy&fontAlign=50&descAlignY=66&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=2E86AB&text=Atharva%20Dhumal&textBg=false&reversal=true&desc=MSCS%20@%20Northeastern%20University&fontAlign=50&descAlignY=66&section=header"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=25&duration=2000&center=true&multiline=true&repeat=false&width=600&height=100&lines=++++++++++++++++++++++++++++++AI%2FML+Engineer+%F0%9F%9A%80+;Deep+Learning+%7C+NLP+%7C+Computer+Vision)](https://git.io/typing-svg)
