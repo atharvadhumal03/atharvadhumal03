@@ -12,12 +12,12 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/atharvadphumal/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fatharvadphumal%2F&subtitle=atharva+dhumal&size=wide" alt="atharva dhumal">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fatharvadphumal%2F&subtitle=atharvapdhumal&size=wide" alt="atharva dhumal">
       </a>
     </td>
     <td align="center">
       <a href="mailto:atharvapdhumal@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=atharva+dhumal&size=wide" alt="atharva dhumal">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=atharvapdhumal@gmail.com&size=wide" alt="atharva dhumal">
       </a>
     </td>
   </tr>
