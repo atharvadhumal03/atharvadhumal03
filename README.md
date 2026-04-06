@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=967259&text=Atharva%20Dhumal&textBg=false&reversal=true&desc=MSCS%20@%20Northeastern%20University&fontAlignX=50&fontAlignY=40&descAlignY=55&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=A67B5B&text=Atharva%20Dhumal&textBg=false&reversal=true&desc=MSCS%20@%20Northeastern%20University&fontAlignX=50&fontAlignY=40&descAlignY=55&section=header"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=25&duration=2000&color=C68642+&center=true&multiline=true&repeat=false&width=600&height=100&lines=++++++++++++++++++++++++++++++AI%2FML+Engineer+%F0%9F%9A%80+;Deep+Learning+%7C+NLP+%7C+Computer+Vision)](https://git.io/typing-svg)
@@ -12,12 +12,12 @@
   <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/atharvadphumal/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fatharvadphumal%2F&subtitle=atharvapdhumal&size=wide" alt="atharva dhumal">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fatharvadphumal%2F&subtitle=atharva+dhumal&size=wide" alt="atharva dhumal">
       </a>
     </td>
     <td align="center">
       <a href="mailto:atharvapdhumal@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=atharvapdhumal%40gmail.com&subtitle=atharvadhumal@gmail.com&size=wide" alt="gmail">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=atharva+dhumal&size=wide" alt="atharva dhumal">
       </a>
     </td>
   </tr>
