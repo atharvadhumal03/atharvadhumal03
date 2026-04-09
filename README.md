@@ -1,13 +1,13 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=A67B5B&text=Atharva%20Dhumal&textBg=false&reversal=true&desc=MSCS%20@%20Northeastern%20University&fontAlignX=50&fontAlignY=40&descAlignY=55&section=header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=A67B5B&text=Atharva%20Dhumal&textBg=false&reversal=true&desc=MSCS%20@%20Northeastern%20University&fontAlignX=25&fontAlignY=28&descAlignY=55&section=header"/>
 
 <!-- Typing Animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lato&size=25&duration=2000&color=C68642+&center=true&multiline=true&repeat=false&width=600&height=100&lines=++++++++++++++++++++++++++++++AI%2FML+Engineer+%F0%9F%9A%80+;Deep+Learning+%7C+NLP+%7C+Computer+Vision)](https://git.io/typing-svg)
 
 <!-- Socials -->
-<div align="center">
+<!-- <div align="center">
 <table>
   <tr>
     <td align="center">
@@ -22,7 +22,7 @@
     </td>
   </tr>
 </table>
-</div>
+</div> -->
 
 <!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=atharvadhumal03&style=for-the-badge&color=c792ea" alt="Profile Views"/>
